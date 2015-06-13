@@ -1,4 +1,4 @@
 # Ipython-Notebook
-Here my various notebook.
+Here my various notebooks.
 I have tried to display all the plots, graphics, animations in a browser...
 
